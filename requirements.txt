@@ -1,5 +1,9 @@
 annotated-types==0.7.0
+dnspython==2.6.1
+email_validator==2.2.0
+idna==3.7
 marshmallow==3.21.3
+mypy-extensions==1.0.0
 packaging==24.1
 pydantic==2.7.4
 pydantic_core==2.18.4
